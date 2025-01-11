@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/910224983190955097/2ae185ee359245fcb576f47aff8feef4/artifacts
+end_time: 1736601507118
+entry_point_name: ''
+experiment_id: '910224983190955097'
+lifecycle_stage: active
+run_id: 2ae185ee359245fcb576f47aff8feef4
+run_name: hilarious-shrike-607
+run_uuid: 2ae185ee359245fcb576f47aff8feef4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736601506631
+status: 3
+tags: []
+user_id: gaura

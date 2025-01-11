@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/50da2425e9e4427c8d7bf3a5cbd36bd5/artifacts
+end_time: 1736601407482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50da2425e9e4427c8d7bf3a5cbd36bd5
+run_name: youthful-donkey-531
+run_uuid: 50da2425e9e4427c8d7bf3a5cbd36bd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736601404886
+status: 3
+tags: []
+user_id: gaura
