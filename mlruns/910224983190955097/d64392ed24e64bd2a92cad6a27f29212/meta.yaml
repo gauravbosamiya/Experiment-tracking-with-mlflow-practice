@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/910224983190955097/d64392ed24e64bd2a92cad6a27f29212/artifacts
+end_time: 1736603429543
+entry_point_name: ''
+experiment_id: '910224983190955097'
+lifecycle_stage: active
+run_id: d64392ed24e64bd2a92cad6a27f29212
+run_name: indecisive-squid-671
+run_uuid: d64392ed24e64bd2a92cad6a27f29212
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736603417086
+status: 3
+tags: []
+user_id: gaura
