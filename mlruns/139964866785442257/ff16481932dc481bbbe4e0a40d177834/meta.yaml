@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/Experiment-tracking-with-mlflow-practice/mlruns/139964866785442257/ff16481932dc481bbbe4e0a40d177834/artifacts
+end_time: 1736652605734
+entry_point_name: ''
+experiment_id: '139964866785442257'
+lifecycle_stage: active
+run_id: ff16481932dc481bbbe4e0a40d177834
+run_name: wise-shrew-679
+run_uuid: ff16481932dc481bbbe4e0a40d177834
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736652605687
+status: 3
+tags: []
+user_id: gaura

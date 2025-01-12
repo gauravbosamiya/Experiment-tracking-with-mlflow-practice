@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/Experiment-tracking-with-mlflow-practice/mlruns/139964866785442257/34f50540f8e640d2b76bc92b9965848b/artifacts
+end_time: 1736652605908
+entry_point_name: ''
+experiment_id: '139964866785442257'
+lifecycle_stage: active
+run_id: 34f50540f8e640d2b76bc92b9965848b
+run_name: bright-seal-917
+run_uuid: 34f50540f8e640d2b76bc92b9965848b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736652605829
+status: 3
+tags: []
+user_id: gaura

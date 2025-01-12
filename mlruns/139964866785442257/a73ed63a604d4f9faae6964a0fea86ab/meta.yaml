@@ -1,0 +1,16 @@
+artifact_uri: file:///E:/MLOps/Experiment-tracking-with-mlflow-practice/mlruns/139964866785442257/a73ed63a604d4f9faae6964a0fea86ab/artifacts
+deleted_time: 1736652592399
+end_time: 1736652520962
+entry_point_name: ''
+experiment_id: '139964866785442257'
+lifecycle_stage: deleted
+run_id: a73ed63a604d4f9faae6964a0fea86ab
+run_name: charming-bear-867
+run_uuid: a73ed63a604d4f9faae6964a0fea86ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736652516438
+status: 4
+tags: []
+user_id: gaura

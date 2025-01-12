@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/Experiment-tracking-with-mlflow-practice/mlruns/139964866785442257/32254add87b34d1090d7aa61a0208571/artifacts
+end_time: 1736652613375
+entry_point_name: ''
+experiment_id: '139964866785442257'
+lifecycle_stage: active
+run_id: 32254add87b34d1090d7aa61a0208571
+run_name: flawless-smelt-251
+run_uuid: 32254add87b34d1090d7aa61a0208571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736652599470
+status: 3
+tags: []
+user_id: gaura

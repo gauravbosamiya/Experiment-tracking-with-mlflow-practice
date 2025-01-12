@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/Experiment-tracking-with-mlflow-practice/mlruns/139964866785442257/6048fa7726eb45f5a136481f2b637fbc/artifacts
+end_time: 1736652605199
+entry_point_name: ''
+experiment_id: '139964866785442257'
+lifecycle_stage: active
+run_id: 6048fa7726eb45f5a136481f2b637fbc
+run_name: thundering-carp-224
+run_uuid: 6048fa7726eb45f5a136481f2b637fbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736652605119
+status: 3
+tags: []
+user_id: gaura

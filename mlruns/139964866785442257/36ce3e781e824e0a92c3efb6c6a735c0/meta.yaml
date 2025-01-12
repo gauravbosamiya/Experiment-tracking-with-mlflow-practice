@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/Experiment-tracking-with-mlflow-practice/mlruns/139964866785442257/36ce3e781e824e0a92c3efb6c6a735c0/artifacts
+end_time: 1736652605276
+entry_point_name: ''
+experiment_id: '139964866785442257'
+lifecycle_stage: active
+run_id: 36ce3e781e824e0a92c3efb6c6a735c0
+run_name: grandiose-sheep-477
+run_uuid: 36ce3e781e824e0a92c3efb6c6a735c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736652605205
+status: 3
+tags: []
+user_id: gaura

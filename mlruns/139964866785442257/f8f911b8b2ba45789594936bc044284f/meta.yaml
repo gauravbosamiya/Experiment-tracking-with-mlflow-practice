@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/Experiment-tracking-with-mlflow-practice/mlruns/139964866785442257/f8f911b8b2ba45789594936bc044284f/artifacts
+end_time: 1736652605605
+entry_point_name: ''
+experiment_id: '139964866785442257'
+lifecycle_stage: active
+run_id: f8f911b8b2ba45789594936bc044284f
+run_name: sincere-squid-186
+run_uuid: f8f911b8b2ba45789594936bc044284f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736652605529
+status: 3
+tags: []
+user_id: gaura

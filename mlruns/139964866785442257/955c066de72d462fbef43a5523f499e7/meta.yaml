@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/Experiment-tracking-with-mlflow-practice/mlruns/139964866785442257/955c066de72d462fbef43a5523f499e7/artifacts
+end_time: 1736652605355
+entry_point_name: ''
+experiment_id: '139964866785442257'
+lifecycle_stage: active
+run_id: 955c066de72d462fbef43a5523f499e7
+run_name: unique-zebra-286
+run_uuid: 955c066de72d462fbef43a5523f499e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736652605292
+status: 3
+tags: []
+user_id: gaura

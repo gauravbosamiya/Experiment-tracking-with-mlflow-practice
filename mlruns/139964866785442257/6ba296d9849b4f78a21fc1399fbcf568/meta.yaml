@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/Experiment-tracking-with-mlflow-practice/mlruns/139964866785442257/6ba296d9849b4f78a21fc1399fbcf568/artifacts
+end_time: 1736652605813
+entry_point_name: ''
+experiment_id: '139964866785442257'
+lifecycle_stage: active
+run_id: 6ba296d9849b4f78a21fc1399fbcf568
+run_name: fun-hare-375
+run_uuid: 6ba296d9849b4f78a21fc1399fbcf568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736652605750
+status: 3
+tags: []
+user_id: gaura

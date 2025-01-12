@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/Experiment-tracking-with-mlflow-practice/mlruns/139964866785442257/901b0f41fc1b4c45a0222f9e62e0bb18/artifacts
+end_time: 1736652605008
+entry_point_name: ''
+experiment_id: '139964866785442257'
+lifecycle_stage: active
+run_id: 901b0f41fc1b4c45a0222f9e62e0bb18
+run_name: capricious-grub-147
+run_uuid: 901b0f41fc1b4c45a0222f9e62e0bb18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736652604913
+status: 3
+tags: []
+user_id: gaura

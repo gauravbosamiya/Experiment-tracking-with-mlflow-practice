@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/Experiment-tracking-with-mlflow-practice/mlruns/139964866785442257/052bff3262c2409f81b7b863c62656a2/artifacts
+end_time: 1736652605105
+entry_point_name: ''
+experiment_id: '139964866785442257'
+lifecycle_stage: active
+run_id: 052bff3262c2409f81b7b863c62656a2
+run_name: popular-bear-252
+run_uuid: 052bff3262c2409f81b7b863c62656a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736652605008
+status: 3
+tags: []
+user_id: gaura

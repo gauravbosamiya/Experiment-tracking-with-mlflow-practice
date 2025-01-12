@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/Experiment-tracking-with-mlflow-practice/mlruns/139964866785442257/8cb1f99ea9e247828c02be842dd531db/artifacts
+end_time: 1736652313750
+entry_point_name: ''
+experiment_id: '139964866785442257'
+lifecycle_stage: active
+run_id: 8cb1f99ea9e247828c02be842dd531db
+run_name: languid-rook-258
+run_uuid: 8cb1f99ea9e247828c02be842dd531db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736652302784
+status: 3
+tags: []
+user_id: gaura
